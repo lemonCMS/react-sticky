@@ -25,7 +25,7 @@ yarn add @wicked_query/react-sticky
 </Sticky>
 
 ````
-[Try online](https://codesandbox.io/s/96v04jy3y)
+[Demo online](https://codesandbox.io/s/96v04jy3y)
 
 ### Know issues
 - No margins. The wrapped tag may not have a margin.

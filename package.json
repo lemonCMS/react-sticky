@@ -1,6 +1,6 @@
 {
   "name": "@wicked_query/react-sticky",
-  "version": "1.0.0-beta.3",
+  "version": "1.0.0-beta.4",
   "description": "A simple sticky component, react 16 and SSR  compatible",
   "main": "lib/Sticky.js",
   "repository": "https://github.com/lemoncms/react-sticky",
