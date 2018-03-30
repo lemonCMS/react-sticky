@@ -2,6 +2,9 @@
 
 A easy to use component to make somethin stick on the top of your screen
 
+- React 16 compatible
+- SSR compatible
+
 ### Installment
 Install with npm
 ````bash
@@ -22,7 +25,7 @@ yarn add @wicked_query/react-sticky
 </Sticky>
 
 ````
-[Try online](https://codesandbox.io/s/r4q7y39pkn)
+[Try online](https://codesandbox.io/s/96v04jy3y)
 
 ### Know issues
 - No margins. The wrapped tag may not have a margin.
