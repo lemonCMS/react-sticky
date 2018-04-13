@@ -140,7 +140,7 @@ Sticky.propTypes = {
 };
 Sticky.defaultProps = {
   offset: 0,
-  zIndex: 12000,
+  zIndex: 1040,
   className: 'sticked',
   addClassName: '',
   events: [
