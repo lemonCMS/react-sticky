@@ -5,6 +5,9 @@ A easy to use component to make somethin stick on the top of your screen
 - React 16 compatible
 - SSR compatible
 
+## Demo & docs
+[https://ultimatejs.babyblox.nl/sticky](https://ultimatejs.babyblox.nl/sticky)
+
 ### Installment
 Install with npm
 ````bash
@@ -25,11 +28,12 @@ yarn add @wicked_query/react-sticky
 </Sticky>
 
 ````
-[Demo online](https://codesandbox.io/s/96v04jy3y)
+[Play online](https://codesandbox.io/s/96v04jy3y)
 
 ### Know issues
 - No margins. The wrapped tag may not have a margin.
 - You can only wrap html tags, no React Components.
+- Does not work on google chrome mobile, but why?
 
 \------------------------\
 _Happy coding_
